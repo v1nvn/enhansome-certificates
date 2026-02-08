@@ -44,8 +44,8 @@
 
 <!-- markdown-link-check-disable -->
 
-[Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) ⭐ 4,365 | 🐛 37 | 📅 2026-01-14 /
-[Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare) ⭐ 4,365 | 🐛 37 | 📅 2026-01-14
+[Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) ⭐ 4,367 | 🐛 37 | 📅 2026-01-14 /
+[Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare) ⭐ 4,367 | 🐛 37 | 📅 2026-01-14
 
 <!-- markdown-link-check-enable -->
 
